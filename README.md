@@ -4,7 +4,7 @@
   <img width="460" height="300" src="https://user-images.githubusercontent.com/70585276/113992379-0787d180-9871-11eb-95ce-0a4cad4d8387.jpg">
 </p>
   
-- 🌱 I’m currently learning **Backend Web Development**
+- 🌱 I’m currently learning **Data science and machine Learning**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/gayatri517)
 
