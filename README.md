@@ -3,7 +3,6 @@
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/70585276/113992379-0787d180-9871-11eb-95ce-0a4cad4d8387.jpg">
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gayatri517&label=Profile%20views&color=0e75b6&style=flat" alt="gayatri517" /> </p>
 
 - 🔭 I’ve previously worked with **Indian Space Research Organisation**
   
