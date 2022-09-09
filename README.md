@@ -6,7 +6,7 @@
 
 - 🔭 I’ve previously worked with **Indian Space Research Organisation**
   
-- 🌱 I’m currently learning **Data science and machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Web3 technology**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/gayatri517)
 
